@@ -4,7 +4,6 @@ import { cn } from "@/lib/utils";
 import {
   ArrowRight,
   Code,
-  Image,
   ImageIcon,
   MessagesSquare,
   Music,
